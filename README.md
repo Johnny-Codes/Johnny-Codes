@@ -10,7 +10,7 @@
 
 ## Languages and Tools
 
-![Django](https://cdn.worldvectorlogo.com/logos/django.svg){width=40 height=40)
+![Django](https://cdn.worldvectorlogo.com/logos/django.svg){width=40 height=40}
 
 [![ReactJS]]<https://cdn.freebiessupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="React" width="40" height="40">
 
