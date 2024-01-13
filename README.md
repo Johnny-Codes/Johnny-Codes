@@ -2,6 +2,8 @@
 
 ## Software Developer | Veteran | Secret Clearance
 
+### Python | JavaScript | C | Embedded
+
 I'm a mostly self-taught developer with a stint at a bootcamp. I started working with Python and Django in 2018. I developed personal projects on and off until early 2023 when I left my career in numismatics to begin a career as a Software Developer.
 
 I've deployed several professional full stack web applications being used as internal tools for different companies.
