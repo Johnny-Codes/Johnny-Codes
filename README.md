@@ -42,4 +42,6 @@ A lot of my Full Stack Applications are private because they're for paying custo
 
 ## GitHub Stats
 
-[![Johnny-Codes GitHub states](https://github-readme-stats.vercel.app/api?username=Johnny-Codes)](https://github.com/anuraghazra/github-readme-stats)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=Johnny-Codes)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?Johnny-Codes)](https://github.com/anuraghazra/github-readme-stats)
