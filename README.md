@@ -36,20 +36,6 @@ A lot of my Full Stack Applications are private because they're for paying custo
 
 - [AutoPlus](https://www.github.com/Johnny-Codes/autoplus) - A demo of a full stack application for managing a car dealership. 
 
-## Languages and Tools
+## GitHub Stats
 
-- Django
-
-- C
-
-- JavaScript
-
-- React
-
-- Django
-
-- FastAPI
-
-- PostgreSQL
-
-
+[![Johnny-Codes GitHub states](https://github-readme-stats.vercel.app/api?username=Johnny-Codes)](https://github.com/anuraghazra/github-readme-stats)
