@@ -16,6 +16,13 @@ While I started with Python and Django, I have continued expanding my software k
 
 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pmjohns)
 
+## Featured Repos:
+
+### Embedded Engineering:
+
+- [Raspberry Pi Bare Metal Programming](https://github.com/Johnny-Codes/bare-metal-pi)
+
+
 ## Languages and Tools
 
 - Django
