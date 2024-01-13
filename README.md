@@ -10,11 +10,16 @@
 
 ## Languages and Tools
 
-![Django](https://cdn.worldvectorlogo.com/logos/django.svg | width=40)
+- Django
 
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg width="40">
+- C
 
-[![ReactJS]]<https://cdn.freebiessupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="React" width="40" height="40">
+- JavaScript
 
- 
+- React
 
+- Django
+
+- FastAPI
+
+- PostgreSQL
