@@ -20,8 +20,9 @@ Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?sty
 
 ### Embedded Engineering:
 
-- [Raspberry Pi Bare Metal Programming](https://github.com/Johnny-Codes/bare-metal-pi)
+- [Raspberry Pi Bare Metal Programming](https://github.com/Johnny-Codes/bare-metal-pi){:target="_blank"}
 
+- [Combing Bare Metal Programming with Web Development](https://github.com/Johnny-Codes/bare-metal-django){:target="_blank"}
 
 ## Languages and Tools
 
