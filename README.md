@@ -20,9 +20,21 @@ Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?sty
 
 ### Embedded Engineering:
 
-- [Raspberry Pi Bare Metal Programming](https://github.com/Johnny-Codes/bare-metal-pi){:target="_blank"}
+- [Raspberry Pi Bare Metal Programming](https://github.com/Johnny-Codes/bare-metal-pi) - This repository is the code of all the learning and programming I'm doing in C to be able to control my Raspberry Pi (FPGA).
 
-- [Combing Bare Metal Programming with Web Development](https://github.com/Johnny-Codes/bare-metal-django){:target="_blank"}
+- [Combing Bare Metal Programming with Web Development](https://github.com/Johnny-Codes/bare-metal-django) - A Django Web Server that controls my Raspberry Pi scripts from my bare-metal-pi repository. Runs on the RaspberryPi and exposes the Django server to my LAN so I can access the website from any device connected to my LAN. When I need a dopamine hit, I refresh the page and watch my LED blink :grinning:
+
+### AI/ML Projects
+
+- [AI Language Teacher](https://www.github.com/Johnny-Codes/ai-language-teacher) - An AI project that allows the user to have a conversation in a foreign language. Utilizes ChatGPT API, IBM Watson, TTS, and STT to help the user learn a foreign language.
+
+### Full Stack Applications
+
+A lot of my Full Stack Applications are private because they're for paying customers but I'll list what I can.
+
+- [Pet Project](https://www.github.com/Johnny-Codes/pet-project) - the beginning of a project management app with the intent to gamify finishing tasks and projects
+
+- [AutoPlus](https://www.github.com/Johnny-Codes/autoplus) - A demo of a full stack application for managing a car dealership. 
 
 ## Languages and Tools
 
