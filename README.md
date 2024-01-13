@@ -30,6 +30,8 @@ Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?sty
 
 - [AI Language Teacher](https://www.github.com/Johnny-Codes/ai-language-teacher) - An AI project that allows the user to have a conversation in a foreign language. Utilizes ChatGPT API, IBM Watson, TTS, and STT to help the user learn a foreign language.
 
+- [Dungeon Master's Assistant](https://www.github.com/Johnny-Codes/dnd-dm-assistant) - Work in progress. Utilizing ChatGPT to help DM's create their worlds.
+
 ### Full Stack Applications
 
 A lot of my Full Stack Applications are private because they're for paying customers but I'll list what I can.
