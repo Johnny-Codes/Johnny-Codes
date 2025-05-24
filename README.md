@@ -1,6 +1,6 @@
 # Hello 👋 my name is Paul
 
-## Ph.D. Student | Software Developer | Veteran 
+## Ph.D. Student | Software Developer | Veteran  
 ### 🖥️ Python | JavaScript | C | Embedded | 🤖 AI/ML | ⚙️ Systems Engineering
 
 I'm a mostly self-taught developer with a stint at a bootcamp. I began my software journey in 2018 with Python and Django, building personal projects that eventually led me to a full-time career in software development. Since 2023, I've been developing and deploying professional full stack web applications used as internal tools for multiple companies.
@@ -39,34 +39,47 @@ Learning embedded systems has even introduced me to electrical engineering conce
 📫 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pmjohns)
 
-## Publications:
+---
 
-- AIM-E: AI-Driven Inspection for Manufacturing on the Edge. IDETC-CIE 2025 Conference Paper. 
+## 📄 Publications
 
-## Featured Repos:
+- **AIM-E: AI-Driven Inspection for Manufacturing on the Edge**  
+  _IDETC-CIE 2025 Conference Paper_
 
-### Embedded Engineering:
+---
 
-- [Raspberry Pi Bare Metal Programming](https://github.com/Johnny-Codes/bare-metal-pi) - This repository is the code of all the learning and programming I'm doing in C to be able to control my Raspberry Pi (FPGA).
+## 📦 Featured Repos
 
-- [Combining Bare Metal Programming with Web Development](https://github.com/Johnny-Codes/bare-metal-django) - A Django Web Server that controls my Raspberry Pi scripts from my bare-metal-pi repository. Runs on the RaspberryPi and exposes the Django server to my LAN so I can access the website from any device connected to my LAN. When I need a dopamine hit, I refresh the page and watch my LED blink :grinning:
+### 🔌 Embedded Engineering
 
-### AI/ML Projects
+- [**Raspberry Pi Bare Metal Programming**](https://github.com/Johnny-Codes/bare-metal-pi)  
+  This repository is the code of all the learning and programming I'm doing in C to be able to control my Raspberry Pi (FPGA).
 
-- [AI Language Teacher](https://www.github.com/Johnny-Codes/ai-language-teacher) - An AI project that allows the user to have a conversation in a foreign language. Utilizes ChatGPT API, IBM Watson, TTS, and STT to help the user learn a foreign language.
+- [**Combining Bare Metal Programming with Web Development**](https://github.com/Johnny-Codes/bare-metal-django)  
+  A Django Web Server that controls my Raspberry Pi scripts from my bare-metal-pi repository. Runs on the RaspberryPi and exposes the Django server to my LAN so I can access the website from any device connected to my LAN. When I need a dopamine hit, I refresh the page and watch my LED blink 😄
 
-- [Dungeon Master's Assistant](https://www.github.com/Johnny-Codes/dnd-dm-assistant) - Work in progress. Utilizing ChatGPT to help DM's create their worlds.
+### 🤖 AI/ML Projects
 
-### Full Stack Applications
+- [**AI Language Teacher**](https://www.github.com/Johnny-Codes/ai-language-teacher)  
+  An AI project that allows the user to have a conversation in a foreign language. Utilizes ChatGPT API, IBM Watson, TTS, and STT to help the user learn a foreign language.
 
-A lot of my Full Stack Applications are private because they're for paying customers but I'll list what I can.
+- [**Dungeon Master's Assistant**](https://www.github.com/Johnny-Codes/dnd-dm-assistant)  
+  _Work in progress._ Utilizing ChatGPT to help DMs create their worlds.
 
-- [Pet Project](https://www.github.com/Johnny-Codes/pet-project) - the beginning of a project management app with the intent to gamify finishing tasks and projects
+### 🌐 Full Stack Applications
 
-- [AutoPlus](https://www.github.com/Johnny-Codes/autoplus) - A demo of a full stack application for managing a car dealership. 
+Many of my full stack apps are private (for clients), but here are a few I can share:
 
-## GitHub Stats
+- [**Pet Project**](https://www.github.com/Johnny-Codes/pet-project)  
+  The beginning of a project management app with the intent to gamify finishing tasks and projects.
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=Johnny-Codes)](https://github.com/anuraghazra/github-readme-stats)
+- [**AutoPlus**](https://www.github.com/Johnny-Codes/autoplus)  
+  A demo of a full stack application for managing a car dealership.
 
-[![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnny-Codes)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## 📊 GitHub Stats
+
+[![My Stats](https://github-readme-stats.vercel.app/api?username=Johnny-Codes&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnny-Codes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
