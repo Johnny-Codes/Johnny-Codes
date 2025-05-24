@@ -1,6 +1,6 @@
 # Hello 👋 my name is Paul
 
-## Ph.D. Student | Software Developer | Veteran | Secret Clearance  
+## Ph.D. Student | Software Developer | Veteran 
 ### 🖥️ Python | JavaScript | C | Embedded | 🤖 AI/ML | ⚙️ Systems Engineering
 
 I'm a mostly self-taught developer with a stint at a bootcamp. I began my software journey in 2018 with Python and Django, building personal projects that eventually led me to a full-time career in software development. Since 2023, I've been developing and deploying professional full stack web applications used as internal tools for multiple companies.
