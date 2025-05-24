@@ -1,22 +1,43 @@
-# Hello :wave:  my name is Paul
+# Hello 👋 my name is Paul
 
-## Software Developer | Veteran | Secret Clearance
+## Ph.D. Student | Software Developer | Veteran | Secret Clearance  
+### 🖥️ Python | JavaScript | C | Embedded | 🤖 AI/ML | ⚙️ Systems Engineering
 
-### Python | JavaScript | C | Embedded
+I'm a mostly self-taught developer with a stint at a bootcamp. I began my software journey in 2018 with Python and Django, building personal projects that eventually led me to a full-time career in software development. Since 2023, I've been developing and deploying professional full stack web applications used as internal tools for multiple companies.
 
-I'm a mostly self-taught developer with a stint at a bootcamp. I started working with Python and Django in 2018. I developed personal projects on and off until early 2023 when I left my career in numismatics to begin a career as a Software Developer.
+---
 
-I've deployed several professional full stack web applications being used as internal tools for different companies.
+### 🎓 Ph.D. in Engineering  
+I'm currently pursuing a **Ph.D. in Engineering**, where my research focuses on:
 
-- :earth_americas: Residing in Huntsville, Al
+- 📘 **Systems and Requirements Engineering**  
+- 🧠 **Integrating AI and Machine Learning into Engineering Systems**  
+- 🛠️ **Improving decision-making and automation in complex technical domains**
 
-Looking for opportunities in Huntsville, Al or remote work.
+This work bridges rigorous systems thinking with cutting-edge AI technologies, enabling smarter, more adaptive engineering processes.
 
-- :brain: Always learning and growing!
+---
 
-While I started with Python and Django, I have continued expanding my software knowledge. I've learned JavaScript and React to become a full stack developer creating seemless products for my customers. Furthermore, I'm beginning to learn C as part of my journey into Embedded Software Development. This has made me learn more things than I ever thought I'd be able to learn, like electrical engineering.
+### 💻 Software Development  
+While continuing my studies, I actively develop software and expand my technical stack:
 
-Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pmjohns)
+- 🧰 **Full Stack Development**: Python, Django, JavaScript, React  
+- 🔧 **Embedded Systems**: C and low-level programming  
+- 🤖 **AI/ML**: PyTorch, scikit-learn, Hugging Face  
+- 🚀 **DevOps & Deployment**: Docker, GitHub Actions, Linux
+
+Learning embedded systems has even introduced me to electrical engineering concepts, proving that software truly opens the door to cross-disciplinary innovation.
+
+---
+
+- 🌍 **Residing in:** Huntsville, AL  
+- 🔍 **Looking for:** Roles in Huntsville or remote opportunities  
+- 📚 **Always learning, building, and solving hard problems**
+
+---
+
+📫 **Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pmjohns)
 
 ## Featured Repos:
 
