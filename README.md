@@ -39,6 +39,10 @@ Learning embedded systems has even introduced me to electrical engineering conce
 📫 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pmjohns)
 
+## Publications:
+
+- AIM-E: AI-Driven Inspection for Manufacturing on the Edge. IDETC-CIE 2025 Conference Paper. 
+
 ## Featured Repos:
 
 ### Embedded Engineering:
