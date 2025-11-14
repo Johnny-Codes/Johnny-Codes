@@ -1,6 +1,4 @@
-Here is the raw Markdown text for your README.md file. You can copy and paste this directly into GitHub.
-
-# Hello, I'm Paul Johns 👋
+# Hello, I'm Paul Johns
 
 ### Software Developer | Leader | Veteran
 
